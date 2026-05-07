@@ -7,11 +7,6 @@
   <sub>Client-side only · Fully portable · Unrestricted access · No tracking 
 </p> 
 <p align="center"> 
-  <a href="https://cdn.jsdelivr.net/gh/virtuan4-max/ghostlinkhub/"><img src="https://img.shields.io/jsdelivr/gh/hm/virtuan4-max/ghostlinkhub?style=flat-square&color=orange&label=jsDelivr" /></a> 
-  <a href="https://github.com/virtuan4-max/ghostlinkhub"><img src="https://img.shields.io/github/stars/virtuan4-max/ghostlinkhub?style=flat-square&color=6ecbff" /></a> 
-  <a href="https://discord.gg/dKs2sUNUXd"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white" /></a> 
-  <a href="https://deepwiki.com/virtuan4-max/ghostlinkhub"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
-</p> 
 
 --- 
 
